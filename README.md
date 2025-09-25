@@ -30,8 +30,8 @@ for g, c in cluster.items():
 
 
 ### Output:
+![WhatsApp Image 2025-09-25 at 15 24 55_af3d3ab9](https://github.com/user-attachments/assets/37b5c687-fa12-4c8e-ae55-2eacfdc80825)
 
-<img width="703" height="685" alt="Screenshot 2025-09-24 191531" src="https://github.com/user-attachments/assets/cb9bf2e6-8d9f-4fd2-85b3-d503ecf7b6a9" />
 
 
 
@@ -46,8 +46,8 @@ plt.title('Visitor Distribution Across Age Groups')
 plt.show()
 
 ### Output:
+![WhatsApp Image 2025-09-25 at 15 24 55_0cb9fe66](https://github.com/user-attachments/assets/2277c567-66c0-4ddc-8a60-1d662af86a96)
 
-<img width="960" height="569" alt="Screenshot 2025-09-24 191541" src="https://github.com/user-attachments/assets/9cb7c04a-b3bb-45c7-8549-f977868a1df0" />
 
 
 ## Program 2:
@@ -69,7 +69,9 @@ df3['cluster']=kmeans.fit_predict(newdf)
 df3
 
 ## Output:
-<img width="732" height="716" alt="Screenshot 2025-09-24 191600" src="https://github.com/user-attachments/assets/2bd85a8f-41ed-4fb3-988c-4141b5c31775" />
+![WhatsApp Image 2025-09-25 at 15 24 56_8045daae](https://github.com/user-attachments/assets/fd2d990e-8823-4c18-8539-23425a57d412)
+
+
 
 ## Visualisation:
 python
@@ -79,8 +81,8 @@ plt.ylabel('Salary in thousands')
 plt.show()
 
 ## Output:
+![WhatsApp Image 2025-09-25 at 15 24 55_1d2f2b93](https://github.com/user-attachments/assets/04c89367-1d37-4658-b445-e88696e5c5f5)
 
-<img width="745" height="438" alt="image" src="https://github.com/user-attachments/assets/c3497f49-2eed-4450-9b64-676da413611f" />
 
 
 ### Result:
